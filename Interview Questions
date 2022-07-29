@@ -1,0 +1,9 @@
+1] reverse the string using stack
+2] Reverse a stack using recursion
+2] Expression Evaluation
+3] Implement Queue using Stacks
+4] Infix to Postfix Conversion using Stack
+5] The Stock Span Problem
+6] Decode the given sequence to construct minimum number without repeated digits
+ex: IDIDII -> 1325467
+    IIDDIDID -> 125437698
